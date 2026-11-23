@@ -1,0 +1,74 @@
+.\output\temp.o: ..\..\UI_HYH_135X240\src\logic\temp.c
+.\output\temp.o: ..\..\UI_HYH_135x240\src\logic/temp.h
+.\output\temp.o: ..\include\context/guicontext.h
+.\output\temp.o: ..\include\widget/image.h
+.\output\temp.o: ..\include\widget/widget.h
+.\output\temp.o: ..\include\context/message.h
+.\output\temp.o: ..\include\context/common.h
+.\output\temp.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\temp.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\temp.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\temp.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\output\temp.o: ..\include\misc/rect.h
+.\output\temp.o: ..\include\graphics/gfx.h
+.\output\temp.o: ..\include\widget/label.h
+.\output\temp.o: ..\include\widget/animation.h
+.\output\temp.o: ..\include\widget/button.h
+.\output\temp.o: ..\include\widget/progress.h
+.\output\temp.o: ..\include\widget/imagetext.h
+.\output\temp.o: ..\include\widget/radio.h
+.\output\temp.o: ..\include\widget/qrcode.h
+.\output\temp.o: ..\include\widget/increment.h
+.\output\temp.o: ..\include\widget/numtext.h
+.\output\temp.o: ..\include\widget/window.h
+.\output\temp.o: ..\include\graphics/video.h
+.\output\temp.o: ..\Inc\main.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f0xx_hal.h
+.\output\temp.o: ..\Inc\py32f032_hal_conf.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f0xx_hal.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_cortex.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_def.h
+.\output\temp.o: ..\Drivers\CMSIS\Device\PY32F032\Include\py32f0xx.h
+.\output\temp.o: ..\Drivers\CMSIS\Device\PY32F032\Include\py32f032x8.h
+.\output\temp.o: ..\Drivers\CMSIS\Include\core_cm0plus.h
+.\output\temp.o: ..\Drivers\CMSIS\Include\cmsis_version.h
+.\output\temp.o: ..\Drivers\CMSIS\Include\cmsis_compiler.h
+.\output\temp.o: ..\Drivers\CMSIS\Include\cmsis_armcc.h
+.\output\temp.o: ..\Drivers\CMSIS\Device\PY32F032\Include\system_py32f0xx.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_flash.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_flash_ex.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_pwr.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_pwr_ex.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_rcc.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_rcc_ex.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_gpio.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_gpio_ex.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_dma.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_dma_ex.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_adc.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_ll_adc.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_adc_ex.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_tim.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_tim_ex.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_i2c.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_i2c_ex.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_sci.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_sci_ex.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_uart.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_hal_spi.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_ll_gpio.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_ll_rcc.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_ll_bus.h
+.\output\temp.o: ..\Drivers\PY32F032_HAL_Driver\Inc\py32f032_ll_flash.h
+.\output\temp.o: ..\SEGGER_RTT\debug.h
+.\output\temp.o: ..\SEGGER_RTT\SEGGER_RTT.h
+.\output\temp.o: ..\SEGGER_RTT\SEGGER_RTT_Conf.h
+.\output\temp.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\temp.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\temp.o: ..\..\UI_HYH_135x240\src\ui_page.h
+.\output\temp.o: ..\..\UI_HYH_135x240\src\ui_res_image.h
+.\output\temp.o: ..\User\pm.h
+.\output\temp.o: ..\User\jd6628.h
+.\output\temp.o: ..\User\iic_soft.h
+.\output\temp.o: ..\User\ntc.h
+.\output\temp.o: ..\User\display.h
